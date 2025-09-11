@@ -1,0 +1,8 @@
+print("Hi my name is Campbell")
+name = input("What is your name?")
+print(f"Nice to meet you {name}!")
+print("Lets talk about your dream vacation!")
+input("")
+place = input("What would be your dream place to take a vacation")
+print(f"{place} is a very cool vacation spot!")
+print(f"If you were to travel to {place}")
